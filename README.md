@@ -1,3 +1,16 @@
+<div align="center">
+  <img alt="Demo" src="./Portfolio/imagess/hoMe.png" />
+</div>
+
+<div align="center">
+  <img alt="Demo" src="./Portfolio/imagess/aboUt.png" />
+</div>
+
+<div align="center">
+  <img alt="Demo" src="./Portfolio/imagess/proJects.png" />
+</div>
+
+
 
 I am learning react through this portfolio website, Chandan.
 
